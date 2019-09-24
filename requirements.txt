@@ -1,0 +1,9 @@
+Flask
+requests
+botframework-connector
+botbuilder-schema
+botbuilder-core
+botbuilder-dialogs
+datatypes-date-time
+msrest
+
